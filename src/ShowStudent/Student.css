@@ -1,0 +1,19 @@
+.myTable{
+
+    margin-bottom: 200px;
+}
+
+thead{
+    background-color: yellow;
+}
+
+.deleteButton{
+    background-color: red;
+    
+}
+
+form{
+    margin-bottom: 150px;
+}
+
+
