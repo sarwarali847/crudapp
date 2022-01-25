@@ -19,7 +19,7 @@ export let Nav = () => {
             <nav className="myNav">
                     <NavLink to="/student/showall"><button className="myBtn" class="btn btn-primary" type="button">Show All</button></NavLink>&nbsp;&nbsp;
                     <NavLink to="/student/add"><button className="myBtn" class="btn btn-primary" type="button">Add</button></NavLink>&nbsp;&nbsp;
-                    <NavLink to="/student/update"><button  className="myBtn" class="btn btn-primary" type="button">Update Student</button></NavLink>
+                    
                 
             </nav>
 
