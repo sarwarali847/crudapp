@@ -15,7 +15,7 @@ export  const ShowStudent = ()=>{
    });
     return(
         <div className="myTable">
-            <table className="mt-3 table table-dark table-striped">
+            <table className="table table-bordered border-primary">
                 <thead>
                     <tr>
                         <th>ID</th>
